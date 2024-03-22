@@ -24,26 +24,6 @@ You can install these libraries using pip:
 pip install pandas pandas_datareader numpy scikit-learn matplotlib yfinance keras
 ```
 
-## Usage
-
-1. Clone this repository:
-
-```
-git clone <repository_url>
-```
-
-2. Navigate to the cloned directory:
-
-```
-cd <repository_directory>
-```
-
-3. Run the `nvda_stock_prediction.py` script:
-
-```
-python nvda_stock_prediction.py
-```
-
 This script will fetch the data, train the LSTM model, make predictions, and visualize the results.
 
 ## License
